@@ -20,6 +20,10 @@ In this project, we use a linear regression model to predict housing prices base
 
 The dataset used in this project is the California Housing Dataset, which contains information about various houses in California. The dataset includes features such as median income, house age, average rooms, average bedrooms, population, households, latitude, and longitude.
 
+**●	Source:** Public dataset from Kaggle (Telecom Customer Churn: https://www.kaggle.com/code/salimelmardi/house-pricing-prediction)
+
+**●	Description**: The dataset contains 20,640 samples about housing prices in California.
+
 longitude: Longitude coordinate of the housing unit.
 
 latitude: Latitude coordinate of the housing unit.
