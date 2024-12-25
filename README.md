@@ -20,7 +20,7 @@ In this project, we use a linear regression model to predict housing prices base
 
 The dataset used in this project is the California Housing Dataset, which contains information about various houses in California. The dataset includes features such as median income, house age, average rooms, average bedrooms, population, households, latitude, and longitude.
 
-**●	Source:** Public dataset from Kaggle (Telecom Customer Churn: https://www.kaggle.com/code/salimelmardi/house-pricing-prediction)
+**●	Source:** Public dataset from Kaggle (https://www.kaggle.com/code/salimelmardi/house-pricing-prediction)
 
 **●	Description**: The dataset contains 20,640 samples about housing prices in California.
 
@@ -41,28 +41,30 @@ households: Total number of households in the area.
 median_income: Median income of households in the area (scaled).
 
 median_house_value (Target): Median value of housing units in the area (in USD)
+
 ## Methodology
-1. Data Preprocessing:
+**1. Data Preprocessing:**
 
 Handle missing values (e.g., imputation).
 
 Normalize or scale numerical features.
 
 Encode categorical variables (if applicable).
-2. Exploratory Data Analysis (EDA):
+
+**2. Exploratory Data Analysis (EDA):**
 
 Analyze feature distributions.
 
 Identify correlations between features and the target variable.
 Model Development:
 
-3. Split the dataset into training and testing sets.
+**3. Split the dataset into training and testing sets.**
 
 Train a Linear Regression model using the training set.
 
 Evaluate model performance using metrics like Mean Squared Error (MSE) and R-squared.
 
-4. Model Optimization:
+**4. Model Optimization:**
 
 Experiment with feature engineering.
 
