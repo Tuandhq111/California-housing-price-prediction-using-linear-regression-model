@@ -7,9 +7,8 @@ This project aims to predict housing prices in California using a linear regress
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Initial Analysis Plan](#Initial-Analysis-Plan)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Visualization](#Visualization)
+- [Data Storytelling](#Data-Storytelling)
 
 ## Introduction
 
@@ -68,3 +67,7 @@ Evaluate model performance using metrics like Mean Squared Error (MSE) and R-squ
 Experiment with feature engineering.
 
 Optimize hyperparameters for improved accuracy.
+## Visualization
+Create visualizations such as bar charts, histograms, and heatmaps to support the analysis.
+## Data Storytelling
+Present findings and provide actionable insights about housing prices
