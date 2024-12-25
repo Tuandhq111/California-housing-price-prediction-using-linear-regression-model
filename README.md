@@ -6,8 +6,7 @@ This project aims to predict housing prices in California using a linear regress
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Initial Analysis Plan](#Initial-Analysis-Plan)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -42,7 +41,7 @@ median_income: Median income of households in the area (scaled).
 
 median_house_value (Target): Median value of housing units in the area (in USD)
 
-## Methodology
+## Initial Analysis Plan
 **1. Data Preprocessing:**
 
 Handle missing values (e.g., imputation).
